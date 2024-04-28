@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cors": "latest",
+    "express": "latest",
+    "pg": "latest",
+    "sequelize": "latest"
+  }
+}
